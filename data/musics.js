@@ -21,7 +21,7 @@ export default function musics() {
       ccolor: ["#844C6B", "37407E"],
       active: false,
       audio:
-        "https://dl.musiceman.net/Music/2021/03/01/Daniyal.Rasooly.-.Shajarian.Remix.mp3",
+        "https://blurmusic.com/Musics/HighQuality/maman mano bebakhsh.mp3",
     },
     {
       id: 3,
